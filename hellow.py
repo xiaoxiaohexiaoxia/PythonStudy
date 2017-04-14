@@ -9,4 +9,5 @@
 
 import sys
 if __name__ == '__main__':
-	print(12344)
+	print(12)
+	print(456)
